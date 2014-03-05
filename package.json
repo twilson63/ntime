@@ -3,5 +3,29 @@
   "version": "0.0.1",
   "bin": {
     "ntime": "ntime.js"
-  }
+  },
+  "description": "A simple application that returns the system time!",
+  "main": "ntime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twilson63/ntime.git"
+  },
+  "keywords": [
+    "sys",
+    "cmd",
+    "that",
+    "returns",
+    "the",
+    "system",
+    "time"
+  ],
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twilson63/ntime/issues"
+  },
+  "homepage": "https://github.com/twilson63/ntime"
 }
